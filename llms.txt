@@ -1,0 +1,30 @@
+# Nino Bohol Driver
+
+Nino Bohol Driver is a private driver service in Bohol, Philippines. Nino drives a Toyota SUV for countryside tours, Panglao airport transfers, Tagbilaran port pickup, hotel transfers, and custom Bohol routes.
+
+## Primary services
+
+- Bohol countryside tour by private Toyota SUV.
+- Chocolate Hills in Carmen, Tarsier Sanctuary, Butterfly Garden, Bilar Man-Made Forest, Loboc River Cruise, optional zipline, Baclayon Church, and Hanging Bridge.
+- Port pickup from Tagbilaran Port.
+- Airport transfer to or from Bohol-Panglao International Airport.
+- Custom Bohol transport for visitors who want flexible stops.
+
+## Countryside tour pricing
+
+- Driver fee: PHP 3,000 for 1 to 2 guests by Toyota SUV.
+- Suggested pickup time: 8:30 AM.
+- Attraction fees are paid separately and may change.
+- Provided guide fees: ATV PHP 1,400 optional, Tarsier Sanctuary PHP 180, Butterfly Garden PHP 100, Loboc River Cruise lunch buffet PHP 1,200 per guest, optional zipline PHP 700 per guest, Hanging Bridge PHP 50. Bilar Man-Made Forest and Baclayon Church listed with no entrance fee.
+
+## Booking
+
+Book by scanning the WhatsApp QR code on the homepage:
+https://dangogit.github.io/nino-bohol-driver/#book
+
+When booking, send travel date, pickup point, drop-off point, guest count, luggage count, and desired route.
+
+## Key page
+
+- Homepage: https://dangogit.github.io/nino-bohol-driver/
+- Services summary: https://dangogit.github.io/nino-bohol-driver/services.md

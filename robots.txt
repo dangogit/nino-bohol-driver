@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangogit.github.io/nino-bohol-driver/sitemap.xml
