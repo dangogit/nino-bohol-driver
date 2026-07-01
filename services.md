@@ -44,7 +44,7 @@ Nino can provide private pickup and drop-off for:
 - Ferry or flight details when relevant.
 
 Book through Nino's WhatsApp contact:
-https://wa.me/qr/ETDEBGSPITKYA1
+https://wa.me/639857912731
 
 The homepage also shows a scannable WhatsApp QR code:
 https://dangogit.github.io/nino-bohol-driver/#book
