@@ -8,7 +8,6 @@ Nino Bohol Driver offers private Toyota SUV transport in Bohol, Philippines for 
 
 Private Toyota SUV countryside tour for 1 to 2 guests.
 
-- Suggested pickup time: 8:30 AM.
 - Main route: Chocolate Hills in Carmen, Tarsier Sanctuary, Butterfly Garden, Bilar Man-Made Forest, Loboc River Cruise, optional zipline, Baclayon Church, and Hanging Bridge.
 - Attraction details can change. Confirm the latest route, timing, and optional stops with Nino before pickup.
 
