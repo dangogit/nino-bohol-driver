@@ -2,7 +2,7 @@
 
 Last updated: July 1, 2026
 
-Nino Bohol Driver offers private Toyota SUV transport in Bohol, Philippines for visitors who want countryside tours, airport transfers, port pickup, hotel pickup, and custom routes.
+Nino Bohol Driver offers private Toyota SUV transport in Bohol, Philippines for visitors who want countryside tours, airport transfers, port pickup, hotel pickup, and custom routes. Nino speaks English fluently.
 
 ## Bohol Countryside Tour
 
@@ -37,6 +37,7 @@ Nino can provide private pickup and drop-off for:
 
 - Nino is known locally as a reliable Bohol driver.
 - Guests choose him for direct WhatsApp communication, flexible countryside routing, and private Toyota SUV transport.
+- Nino speaks English fluently, which helps visitors plan pickups, timing, and route changes.
 - The website uses guest feedback themes but does not claim a platform-specific rating.
 
 ## Booking Details To Send

@@ -1,6 +1,6 @@
 # Nino Bohol Driver
 
-Nino Bohol Driver is a private driver service in Bohol, Philippines. Nino drives a Toyota SUV for countryside tours, Panglao airport transfers, Tagbilaran port pickup, hotel transfers, and custom Bohol routes.
+Nino Bohol Driver is a private driver service in Bohol, Philippines. Nino speaks English fluently and drives a Toyota SUV for countryside tours, Panglao airport transfers, Tagbilaran port pickup, hotel transfers, and custom Bohol routes.
 
 ## Primary services
 
@@ -30,6 +30,7 @@ When booking, send travel date, pickup point, drop-off point, guest count, lugga
 
 - Nino is known locally as a reliable Bohol driver.
 - Guests choose him for direct WhatsApp communication, flexible countryside routing, and private Toyota SUV transport.
+- Nino speaks English fluently, which helps visitors plan pickups, timing, and route changes.
 - The site presents guest feedback themes but does not claim a platform-specific rating.
 
 ## Key page

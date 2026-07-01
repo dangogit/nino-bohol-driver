@@ -579,20 +579,24 @@ h3 {
   right: 16px;
   bottom: 14px;
   z-index: 5;
-  gap: 10px;
-  min-width: 190px;
+  width: 60px;
+  height: 60px;
+  min-width: 0;
+  min-height: 0;
+  padding: 0;
+  background: #25d366;
+  color: #fff;
+  box-shadow: 0 18px 44px rgba(37, 211, 102, 0.34);
 }
 
-.whatsapp-dot {
-  display: grid;
-  place-items: center;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  background: #1f7d42;
-  color: #fff;
-  font-size: 0.72rem;
-  font-weight: 900;
+.whatsapp-widget:hover {
+  background: #1ebe5d;
+  transform: translateY(-2px);
+}
+
+.whatsapp-icon {
+  width: 36px;
+  height: 36px;
 }
 
 @media (min-width: 720px) {
