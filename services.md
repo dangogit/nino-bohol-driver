@@ -8,21 +8,20 @@ Nino Bohol Driver offers private Toyota SUV transport in Bohol, Philippines for 
 
 Private Toyota SUV countryside tour for 1 to 2 guests.
 
-- Driver fee: PHP 3,000.
 - Suggested pickup time: 8:30 AM.
 - Main route: Chocolate Hills in Carmen, Tarsier Sanctuary, Butterfly Garden, Bilar Man-Made Forest, Loboc River Cruise, optional zipline, Baclayon Church, and Hanging Bridge.
-- Attraction fees are separate and may change.
+- Attraction details can change. Confirm the latest route, timing, and optional stops with Nino before pickup.
 
-## Guide Attraction Fees
+## Itinerary Stops
 
-- ATV ride near Chocolate Hills: PHP 1,400 optional.
-- Tarsier Sanctuary: PHP 180 entrance.
-- Butterfly Garden: PHP 100 entrance.
-- Bilar Man-Made Forest: no entrance fee listed.
-- Loboc River Cruise lunch buffet: PHP 1,200 per guest.
-- Zipline riding: PHP 700 per guest optional.
-- Baclayon Church: no entrance fee listed.
-- Hanging Bridge: PHP 50 entrance.
+- Chocolate Hills in Carmen, with optional ATV nearby.
+- Tarsier Sanctuary.
+- Butterfly Garden.
+- Bilar Man-Made Forest.
+- Loboc River Cruise.
+- Optional zipline riding near Loboc.
+- Baclayon Church.
+- Hanging Bridge.
 
 ## Transfers
 
@@ -44,5 +43,8 @@ Nino can provide private pickup and drop-off for:
 - Preferred route or stops.
 - Ferry or flight details when relevant.
 
-Book through the WhatsApp QR code on the homepage:
+Book through Nino's WhatsApp contact:
+https://wa.me/qr/ETDEBGSPITKYA1
+
+The homepage also shows a scannable WhatsApp QR code:
 https://dangogit.github.io/nino-bohol-driver/#book

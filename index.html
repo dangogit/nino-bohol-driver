@@ -40,6 +40,9 @@
             "description": "Private Toyota SUV driver in Bohol offering countryside tours, Chocolate Hills trips, Panglao airport transfers, Tagbilaran port pickup, and custom island transport.",
             "url": "https://dangogit.github.io/nino-bohol-driver/",
             "image": "https://dangogit.github.io/nino-bohol-driver/assets/nino-chocolate-hills.webp",
+            "sameAs": [
+              "https://wa.me/qr/ETDEBGSPITKYA1"
+            ],
             "areaServed": [
               "Bohol",
               "Panglao",
@@ -48,13 +51,10 @@
               "Loboc",
               "Baclayon"
             ],
-            "priceRange": "PHP 3000+",
             "makesOffer": [
               {
                 "@type": "Offer",
                 "name": "Bohol Countryside Tour by Toyota SUV",
-                "price": "3000",
-                "priceCurrency": "PHP",
                 "eligibleQuantity": {
                   "@type": "QuantitativeValue",
                   "minValue": 1,
@@ -100,10 +100,10 @@
               },
               {
                 "@type": "Question",
-                "name": "Does the tour price include entrance fees?",
+                "name": "Are attraction details included in the tour?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "The Toyota SUV driver fee is listed separately. Attraction entrances, Loboc River Cruise lunch buffet, ATV, and zipline are paid separately and should be confirmed before booking."
+                  "text": "Nino can help plan the countryside route with Chocolate Hills, tarsiers, Loboc River Cruise, optional ATV, optional zipline, Baclayon Church, and other stops. Confirm the latest details on WhatsApp before pickup."
                 }
               }
             ]
@@ -134,13 +134,13 @@
           Tagbilaran Port, and custom Bohol stops.
         </p>
         <div class="hero-actions" aria-label="Main booking actions">
-          <a class="button primary" href="#book">Book on WhatsApp</a>
+          <a class="button primary" href="https://wa.me/qr/ETDEBGSPITKYA1" target="_blank" rel="noopener">Chat on WhatsApp</a>
           <a class="button ghost" href="#tour">See tour route</a>
         </div>
         <dl class="quick-facts" aria-label="Quick facts">
           <div>
-            <dt>Tour rate</dt>
-            <dd>PHP 3,000</dd>
+            <dt>Vehicle</dt>
+            <dd>Toyota SUV</dd>
           </div>
           <div>
             <dt>Guests</dt>
@@ -171,62 +171,94 @@
 
       <section class="tour section-inner" id="tour">
         <div class="section-heading">
-          <p class="section-kicker">Countryside route</p>
-          <h2>Classic Bohol day tour.</h2>
+          <p class="section-kicker">Countryside itinerary</p>
+          <h2>Classic Bohol route, stop by stop.</h2>
           <p>
-            Driver fee is PHP 3,000 for 1 to 2 guests by Toyota SUV. Attraction fees
-            are paid separately and can change, so confirm them on WhatsApp before pickup.
+            Plan it as a full countryside day, or ask Nino to adjust the route for
+            your ferry, flight, hotel, weather, and energy level.
           </p>
         </div>
 
-        <div class="route-grid">
-          <article class="route-card highlight">
-            <span class="route-number">01</span>
-            <h3>Chocolate Hills in Carmen</h3>
-            <p>Signature Bohol viewpoint, with optional ATV ride.</p>
-            <strong>ATV: PHP 1,400 optional</strong>
+        <div class="itinerary-list">
+          <article class="itinerary-card highlight">
+            <img src="assets/itinerary/chocolate-hills.webp" alt="Chocolate Hills viewpoint in Carmen, Bohol" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">01</span>
+              <p class="stop-time">Morning viewpoint</p>
+              <h3>Chocolate Hills in Carmen</h3>
+              <p>Start with Bohol's most famous landscape. Add ATV time if you want a more active stop before continuing.</p>
+              <span class="stop-note">Expect: open views, photos, optional ATV nearby.</span>
+            </div>
           </article>
-          <article class="route-card">
-            <span class="route-number">02</span>
-            <h3>Tarsier Sanctuary</h3>
-            <p>Quiet wildlife stop for seeing Bohol tarsiers responsibly.</p>
-            <strong>Entrance: PHP 180</strong>
+          <article class="itinerary-card">
+            <img src="assets/itinerary/tarsier.webp" alt="Philippine tarsier in Bohol" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">02</span>
+              <p class="stop-time">Wildlife stop</p>
+              <h3>Tarsier Sanctuary</h3>
+              <p>A quiet visit to see Bohol tarsiers responsibly. Best for travelers who want nature without a long hike.</p>
+              <span class="stop-note">Expect: short walk, quiet viewing, no flash photos.</span>
+            </div>
           </article>
-          <article class="route-card">
-            <span class="route-number">03</span>
-            <h3>Butterfly Garden</h3>
-            <p>Short nature stop, easy to add between main attractions.</p>
-            <strong>Entrance: PHP 100</strong>
+          <article class="itinerary-card">
+            <img src="assets/itinerary/butterfly.webp" alt="Butterfly at Bohol Butterfly Conservation Center" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">03</span>
+              <p class="stop-time">Easy nature break</p>
+              <h3>Butterfly Garden</h3>
+              <p>A light stop between the main sights, useful if you want a slower pace or are traveling with kids.</p>
+              <span class="stop-note">Expect: butterflies, garden walk, quick photos.</span>
+            </div>
           </article>
-          <article class="route-card">
-            <span class="route-number">04</span>
-            <h3>Bilar Man-Made Forest</h3>
-            <p>Shaded road photo stop between countryside highlights.</p>
-            <strong>No entrance fee</strong>
+          <article class="itinerary-card">
+            <img src="assets/itinerary/forest.webp" alt="Bilar Man-Made Forest road in Bohol" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">04</span>
+              <p class="stop-time">Shaded road stop</p>
+              <h3>Bilar Man-Made Forest</h3>
+              <p>Cooler air, tall trees, and a short photo stop on the countryside road toward Loboc.</p>
+              <span class="stop-note">Expect: shaded road, quick stop, strong green backdrop.</span>
+            </div>
           </article>
-          <article class="route-card highlight">
-            <span class="route-number">05</span>
-            <h3>Loboc River Cruise</h3>
-            <p>Lunch buffet on the river, one of the easiest family-friendly stops.</p>
-            <strong>Lunch buffet: PHP 1,200 per guest</strong>
+          <article class="itinerary-card highlight">
+            <img src="assets/itinerary/loboc-river.webp" alt="Loboc River Cruise boat in Bohol" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">05</span>
+              <p class="stop-time">Lunch on the river</p>
+              <h3>Loboc River Cruise</h3>
+              <p>Relax on the river cruise and take lunch during the day, then continue with optional adventure stops.</p>
+              <span class="stop-note">Expect: river views, buffet lunch option, easy family stop.</span>
+            </div>
           </article>
-          <article class="route-card">
-            <span class="route-number">06</span>
-            <h3>Zipline riding</h3>
-            <p>Optional high-view adventure stop near Loboc.</p>
-            <strong>PHP 700 per guest optional</strong>
+          <article class="itinerary-card">
+            <img src="assets/itinerary/zipline.webp" alt="Loboc Eco-Adventure Park zipline area in Bohol" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">06</span>
+              <p class="stop-time">Optional adventure</p>
+              <h3>Zipline riding</h3>
+              <p>Add a high-view adventure stop near Loboc if you want a faster, more energetic part of the day.</p>
+              <span class="stop-note">Expect: canopy views, optional ride, weather-dependent timing.</span>
+            </div>
           </article>
-          <article class="route-card">
-            <span class="route-number">07</span>
-            <h3>Baclayon Church</h3>
-            <p>Historic church stop before returning toward Panglao or Tagbilaran.</p>
-            <strong>No entrance fee</strong>
+          <article class="itinerary-card">
+            <img src="assets/itinerary/baclayon.webp" alt="Baclayon Church in Bohol" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">07</span>
+              <p class="stop-time">Historic stop</p>
+              <h3>Baclayon Church</h3>
+              <p>A calm heritage stop before returning toward Panglao, Tagbilaran, or your next pickup point.</p>
+              <span class="stop-note">Expect: old stone church, short visit, easy parking.</span>
+            </div>
           </article>
-          <article class="route-card">
-            <span class="route-number">08</span>
-            <h3>Hanging Bridge</h3>
-            <p>Quick stop for photos and a short walk over the river.</p>
-            <strong>Entrance: PHP 50</strong>
+          <article class="itinerary-card">
+            <img src="assets/itinerary/hanging-bridge.webp" alt="Bohol hanging bridge over the river" width="760" height="520" loading="lazy">
+            <div class="itinerary-copy">
+              <span class="route-number">08</span>
+              <p class="stop-time">Short walk</p>
+              <h3>Hanging Bridge</h3>
+              <p>Finish with a quick bridge walk and river photo stop before heading back.</p>
+              <span class="stop-note">Expect: bamboo bridge, local stalls, short photo stop.</span>
+            </div>
           </article>
         </div>
       </section>
@@ -287,10 +319,11 @@
               or a custom Bohol route.
             </p>
             <ol class="steps">
-              <li>Scan Nino's WhatsApp QR code.</li>
+              <li>Click the WhatsApp chat button or scan the QR code.</li>
               <li>Send your travel date and pickup location.</li>
-              <li>Confirm route, price, and pickup time.</li>
+              <li>Confirm route, pickup time, and latest attraction details.</li>
             </ol>
+            <a class="button primary booking-button" href="https://wa.me/qr/ETDEBGSPITKYA1" target="_blank" rel="noopener">Open WhatsApp chat</a>
           </div>
           <figure class="qr-card">
             <img
@@ -319,8 +352,8 @@
             <p>Yes. Airport pickup and drop-off are available. Send flight details on WhatsApp.</p>
           </details>
           <details>
-            <summary>Does PHP 3,000 include entrance fees?</summary>
-            <p>No. PHP 3,000 is the Toyota SUV driver fee for 1 to 2 guests. Attraction fees are separate.</p>
+            <summary>Can Nino help plan attraction details?</summary>
+            <p>Yes. Confirm the latest route, timing, optional stops, and pickup plan with Nino before the trip.</p>
           </details>
           <details>
             <summary>Can the route change?</summary>
@@ -336,11 +369,28 @@
           <strong>Nino Bohol Driver</strong>
           <p>Private Bohol countryside tours, airport transfers, port pickup, and custom transport.</p>
           <p class="updated">Last updated: July 1, 2026</p>
+          <details class="credits">
+            <summary>Photo credits</summary>
+            <p>
+              Attraction photos from Wikimedia Commons:
+              <a href="https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol_Philippines.jpg">Chocolate Hills by Philip Nalangan</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Tarsier_Sanctuary,_Corella,_Bohol_(2052878890).jpg">Tarsier by yeowatzup</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Rice_paper_butterfly_(Idea_leuconoe)_at_the_Bohol_Butterfly_Conservation_Center,_Philippines_1.JPG">Butterfly by Obsidian Soul</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Bilar_Man-made_Mahogany_Forest.jpg">Bilar Forest by Evelyn Alera</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Loboc_River_Cruise_(Poblacion,_Loboc,_Bohol%3B_01-12-2023).jpg">Loboc River by Patrickroque01</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Loboc_Eco-Adventure_Park,_Bohol.png">Loboc Adventure Park by Qaalvin</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Baclayon_Church_Bohol_Philippines_Front_View.jpg">Baclayon Church by Ford1981</a>,
+              <a href="https://commons.wikimedia.org/wiki/File:Sipatan_Twin_Hanging_Bridge.jpg">Hanging Bridge by Andrewhaimerl</a>.
+            </p>
+          </details>
         </div>
-        <a class="button footer-button" href="#book">Scan WhatsApp QR</a>
+        <a class="button footer-button" href="https://wa.me/qr/ETDEBGSPITKYA1" target="_blank" rel="noopener">Chat on WhatsApp</a>
       </div>
     </footer>
 
-    <a class="mobile-sticky" href="#book">Book on WhatsApp</a>
+    <a class="whatsapp-widget" href="https://wa.me/qr/ETDEBGSPITKYA1" target="_blank" rel="noopener" aria-label="Chat with Nino on WhatsApp">
+      <span class="whatsapp-dot">WA</span>
+      <span>Chat with Nino</span>
+    </a>
   </body>
 </html>

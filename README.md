@@ -23,6 +23,6 @@ https://dangogit.github.io/nino-bohol-driver/
 - `index.html` - landing page with local SEO, FAQ schema, and service schema.
 - `styles.css` - mobile-first visual design.
 - `llms.txt` - AI-search context file.
-- `services.md` - agent-readable service and pricing summary.
+- `services.md` - agent-readable service and itinerary summary.
 - `robots.txt` and `sitemap.xml` - crawler files.
 - `assets/` - optimized local photos and social image.
