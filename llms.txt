@@ -26,6 +26,12 @@ https://dangogit.github.io/nino-bohol-driver/#book
 
 When booking, send travel date, pickup point, drop-off point, guest count, luggage count, and desired route.
 
+## Trust signals
+
+- Nino is known locally as a reliable Bohol driver.
+- Guests choose him for direct WhatsApp communication, flexible countryside routing, and private Toyota SUV transport.
+- The site presents guest feedback themes but does not claim a platform-specific rating.
+
 ## Key page
 
 - Homepage: https://dangogit.github.io/nino-bohol-driver/

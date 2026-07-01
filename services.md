@@ -33,6 +33,12 @@ Nino can provide private pickup and drop-off for:
 - Tagbilaran hotels.
 - Custom Bohol destinations.
 
+## Trust Signals
+
+- Nino is known locally as a reliable Bohol driver.
+- Guests choose him for direct WhatsApp communication, flexible countryside routing, and private Toyota SUV transport.
+- The website uses guest feedback themes but does not claim a platform-specific rating.
+
 ## Booking Details To Send
 
 - Travel date.
