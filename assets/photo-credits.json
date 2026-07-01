@@ -1,13 +1,5 @@
 [
   {
-    "slug": "itinerary-chocolate-hills",
-    "title": "Chocolate Hills Bohol Philippines.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol_Philippines.jpg",
-    "author": "Philip Nalangan",
-    "license": "CC BY-SA 4.0",
-    "downloaded": "assets/source-photos/itinerary-chocolate-hills.jpg"
-  },
-  {
     "slug": "itinerary-tarsier",
     "title": "Tarsier Sanctuary, Corella, Bohol (2052878890).jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Tarsier_Sanctuary,_Corella,_Bohol_(2052878890).jpg",
@@ -22,22 +14,6 @@
     "author": "Obsidian Soul",
     "license": "CC BY-SA 3.0",
     "downloaded": "assets/source-photos/itinerary-butterfly.jpg"
-  },
-  {
-    "slug": "itinerary-forest",
-    "title": "Bilar Man-made Mahogany Forest.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Bilar_Man-made_Mahogany_Forest.jpg",
-    "author": "Evelyn Alera",
-    "license": "CC BY-SA 4.0",
-    "downloaded": "assets/source-photos/itinerary-forest.jpg"
-  },
-  {
-    "slug": "itinerary-loboc-river",
-    "title": "Loboc River Cruise (Poblacion, Loboc, Bohol; 01-12-2023).jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Loboc_River_Cruise_(Poblacion,_Loboc,_Bohol%3B_01-12-2023).jpg",
-    "author": "Patrickroque01",
-    "license": "CC BY-SA 4.0",
-    "downloaded": "assets/source-photos/itinerary-loboc-river.jpg"
   },
   {
     "slug": "itinerary-zipline",

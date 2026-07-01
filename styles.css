@@ -56,7 +56,7 @@ summary:focus-visible {
   color: #fff;
   background:
     linear-gradient(180deg, rgba(3, 20, 20, 0.46) 0%, rgba(3, 20, 20, 0.18) 42%, rgba(3, 20, 20, 0.84) 100%),
-    url("assets/nino-chocolate-hills.webp") center top / cover no-repeat;
+    url("assets/nino-chocolate-hills.webp") center center / cover no-repeat;
 }
 
 .nav {
@@ -262,6 +262,20 @@ h3 {
 
 .intro-grid {
   align-items: end;
+}
+
+.drive-band {
+  padding: 30px 0 0;
+  background: linear-gradient(180deg, var(--sand) 0 45%, var(--coconut) 45% 100%);
+}
+
+.drive-band img {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
 }
 
 .intro-grid p:last-child,
@@ -490,6 +504,7 @@ h3 {
   width: min(100%, 360px);
   margin: 0 auto;
   border-radius: 8px;
+  box-shadow: 0 14px 34px rgba(7, 63, 63, 0.14);
 }
 
 .qr-card figcaption {
