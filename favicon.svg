@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nino Bohol Driver">
+  <rect width="64" height="64" rx="14" fill="#0b6f6a"/>
+  <circle cx="47" cy="17" r="11" fill="#f5bd42"/>
+  <path d="M9 49c10-9 21-9 32 0 5 4 10 5 14 4" fill="none" stroke="#fffaf0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M17 19h8v27h-8zM39 18h8v28h-8zM24 19h8l15 27h-8z" fill="#ffffff"/>
+</svg>
